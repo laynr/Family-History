@@ -1,0 +1,55 @@
+{
+  "intents": [
+    {
+      "intent": "PersonIntent"
+    },
+    {
+      "intent": "FatherIntent",
+      "slots": [
+        {
+          "name": "Num",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "MotherIntent",
+      "slots": [
+        {
+          "name": "Num",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "SpouceIntent",
+      "slots": [
+        {
+          "name": "Num",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ChildIntent",
+      "slots": [
+        {
+          "name": "Num",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "CurrentIntent"
+    }, 
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+CurrentIntent repeat
+CurrentIntent again
+CurrentIntent say that again
+
+PersonIntent me
+PersonIntent for me
+PersonIntent start over
+
+FatherIntent father
+FatherIntent for father
+FatherIntent dad
+FatherIntent for dad
+FatherIntent pa
+FatherIntent for pa
+
+MotherIntent mother
+MotherIntent for mother
+MotherIntent mom
+MotherIntent for mom
+MotherIntent ma
+MotherIntent for ma
+MotherIntent mum
+MotherIntent for mum
+
+SpouceIntent spouse
+SpouceIntent for spouse
+SpouceIntent wife
+SpouceIntent for wife
+SpouceIntent husband
+SpouceIntent for husband
+
+ChildIntent child
+ChildIntent for child
+ChildIntent kid
+ChildIntent for kid
+ChildIntent son
+ChildIntent for son
+ChildIntent daughter
+ChildIntent for daughter
+
+FatherIntent father {Num}
+FatherIntent for father {Num}
+FatherIntent dad {Num}
+FatherIntent for dad {Num}
+FatherIntent pa {Num}
+FatherIntent for pa {Num}
+
+MotherIntent mother {Num}
+MotherIntent for mother {Num}
+MotherIntent mom {Num}
+MotherIntent for mom {Num}
+MotherIntent ma {Num}
+MotherIntent for ma {Num}
+MotherIntent mum {Num}
+MotherIntent for mum {Num}
+
+SpouceIntent spouse {Num}
+SpouceIntent for spouse {Num}
+SpouceIntent wife {Num}
+SpouceIntent for wife {Num}
+SpouceIntent husband {Num}
+SpouceIntent for husband {Num}
+
+ChildIntent child {Num}
+ChildIntent for child {Num}
+ChildIntent kid {Num}
+ChildIntent for kid {Num}
+ChildIntent son {Num}
+ChildIntent for son {Num}
+ChildIntent daughter {Num}
+ChildIntent for daughter {Num}
+
+
